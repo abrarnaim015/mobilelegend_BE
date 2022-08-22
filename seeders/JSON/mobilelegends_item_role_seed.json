@@ -1,0 +1,32 @@
+[
+  {
+    "name": "attack",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  },
+  {
+    "name": "defense",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  },
+  {
+    "name": "jungle",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  },
+  {
+    "name": "magic",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  },
+  {
+    "name": "movement",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  },
+  {
+    "name": "roam",
+    "created_at": "2022-08-22T09:53:24.447Z",
+    "updated_at": "2022-08-22T09:53:24.447Z"
+  }
+]

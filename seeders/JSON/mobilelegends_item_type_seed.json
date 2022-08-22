@@ -1,0 +1,107 @@
+[
+  {
+    "name": "attack speed",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "blood retribution",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "conceal (active)",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "cooldown reduction",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "crit chance",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "dire hit (passive)",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "encourage (passive)",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "favor (passive)",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "flame retribution",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "hp",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "hp regen",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "ice retribution",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "magic defense",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "magic lifesteal",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "magic power",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "mana",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "mana regen",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "movement speed",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "physical attack",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "physical defense",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  },
+  {
+    "name": "physical lifesteal",
+    "created_at": "2022-08-22T10:13:27.650Z",
+    "updated_at": "2022-08-22T10:13:27.650Z"
+  }
+]

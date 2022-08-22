@@ -1,0 +1,29 @@
+{
+  "name": "mobilelegend_BE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarnaim015/mobilelegend_BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrarnaim015/mobilelegend_BE/issues"
+  },
+  "homepage": "https://github.com/abrarnaim015/mobilelegend_BE#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "sequelize": "^6.21.4"
+  }
+}
